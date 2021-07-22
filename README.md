@@ -9,12 +9,11 @@ Objetivo deste workshop é que você conheça uma maneira prática de construir 
 
 
 1. Crie uma conta gratuita em: https://www.overleaf.com/. 
-2. Com a conta criada e com o login feito dentro do site, clique em “New Project”, conforme a imagem abaixo (escolha a opção projeto em branco)
-
+2. Com a conta criada e com o login feito dentro do site, clique em “New Project” (escolha a opção projeto em branco)
 3. Copie e cole o código do arquivo main.tex, disponível nos arquivos deste repositório para o espaço onde será colocado o código do seu novo projeto, que a este momento estará em branco.
-4. Faça download da figura exemplo.jpg, que se encontra aqui nos arquivos
-5.  No canto esquerdo da tela, clique em upload e coloque em seu projeto a figura “exemplo.jpg”
-6.  Pressione ctrl+s. O seu código será compilado e você poderá visualizar como a apresentação de slides está ficando.
+5. Faça download da figura exemplo.jpg, que se encontra aqui nos arquivos
+6.  No canto esquerdo da tela, clique em upload e coloque em seu projeto a figura “exemplo.jpg”
+7.  Pressione ctrl+s. O seu código será compilado e você poderá visualizar como a apresentação de slides está ficando.
 
 Explore à vontade a ferramenta, vamos fazer isso também juntos durante o workshop.
 

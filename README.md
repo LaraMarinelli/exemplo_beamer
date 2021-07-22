@@ -5,7 +5,7 @@ Este é um breve guia sobre como utilizar o material para acompanhar a apresenta
 
 A grosso modo, o Overleaf é um software que permite que você edite e compile online o código de marcação de seu texto/apresentação, escrito em LaTeX.
 
-Objetivo deste workshop é que você conheça uma maneira prática de construir seus slides e possa a partir de uma base, explorar a ferramenta. Iremos utilizar um código fonte construído de exemplo, que é a própria apresentação desta aula, como base para explorar as possíveis alterações.
+Objetivo deste workshop é que você conheça uma maneira prática de construir seus slides e fornecer uma base para você explorar a ferramenta. Iremos utilizar um código fonte construído de exemplo, que é a própria apresentação desta aula, como base para essa exploração.
 
 
 1. Crie uma conta gratuita em: https://www.overleaf.com/. 
